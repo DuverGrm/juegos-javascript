@@ -1,0 +1,11 @@
+body {
+    text-align: center;
+    overflow: hidden;
+    background-image: url(/img/pexels-nandhukumar-339614.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#board {
+    background-color: rgb(151, 130, 103);
+}
